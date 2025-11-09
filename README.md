@@ -1,5 +1,8 @@
 # Sprint 4 – IA (Visão Computacional) – Mottu
 
+Marcus Vinicius de Souza Calazans — RM556620
+Lucas Abud Berbel — RM557957
+
 Este repositório implementa o **fluxo completo** para a sprint 4 de **Disruptive Architectures (IoT/IOB & Generative IA)** baseado no seu script YOLO: captura → detecção → **persistência em backend** → **dashboard**.
 
 ## Componentes
